@@ -7,7 +7,9 @@ Web Developer and Software Engineer
 After graduating from NSS in March of 2022 I have continued to improve my knowledge and understanding of HTML, Javascript, React, Python, Django, and several other languages. I am so excited to explore new things with a team of developers!
 
 *   🌍  I'm based in Nashville, TN
-*   🖥️  See my portfolio at [My Portfolio Website](http://jubjub422.github.io/PersonalWebsite/)### Skills<p align="left">
+*   🖥️  See my portfolio at [My Portfolio Website](http://jubjub422.github.io/PersonalWebsite/)
+
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
